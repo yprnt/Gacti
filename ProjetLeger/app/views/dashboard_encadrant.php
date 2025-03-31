@@ -170,7 +170,7 @@ foreach ($allActivities as $activity) {
 
 <footer class="footer">
     <div class="container footer-content">
-        &copy; 2024 Association VVA - Tous droits réservés.
+        &copy; 2025 Association VVA - Tous droits réservés.
     </div>
 </footer>
 

@@ -178,7 +178,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <footer class="footer">
     <div class="container footer-content">
-        &copy; 2024 Association VVA - Tous droits réservés.
+        &copy; 2025 Association VVA - Tous droits réservés.
     </div>
 </footer>
 
